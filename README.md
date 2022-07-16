@@ -1,2 +1,1 @@
-# Interrogate
-Question and Answer Platform-interrogate
+Question and Answer Platform - interrogate
